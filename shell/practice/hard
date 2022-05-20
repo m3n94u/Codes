@@ -1,0 +1,8 @@
+127.0.0.1 VM-4-8-centos VM-4-8-centos
+127.0.0.1 localhost.localdomain localhost
+127.0.0.1 localhost4.localdomain4 localhost4
+
+::1 VM-4-8-centos VM-4-8-centos
+::1 localhost.localdomain localhost
+::1 localhost6.localdomain6 localhost6
+

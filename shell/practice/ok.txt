@@ -1,0 +1,1 @@
+-rw-r--r-- 1 root root 234 4月  11 16:17 /etc/hosts
