@@ -53,7 +53,7 @@ else
     ./configure \
     --user=nginx \
     --group=nginx \
-    --prefix=/data/server/nginx\
+    --prefix=/usr/local/nginx \
     --with-stream \
     --with-http_ssl_module \
     --with-http_stub_status_module \
